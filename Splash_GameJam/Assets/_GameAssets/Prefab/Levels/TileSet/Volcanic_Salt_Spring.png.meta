@@ -1,0 +1,1784 @@
+fileFormatVersion: 2
+guid: 82ba10684348abd409a52193baa3debd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7344184254673791908
+    second: Volcanic_Salt_Spring_0
+  - first:
+      213: -6223606442741870029
+    second: Volcanic_Salt_Spring_1
+  - first:
+      213: -649399719279883311
+    second: Volcanic_Salt_Spring_2
+  - first:
+      213: 549650460997205564
+    second: Volcanic_Salt_Spring_3
+  - first:
+      213: -2663968690175447676
+    second: Volcanic_Salt_Spring_4
+  - first:
+      213: -699294066145112607
+    second: Volcanic_Salt_Spring_5
+  - first:
+      213: -7017255247293366043
+    second: Volcanic_Salt_Spring_6
+  - first:
+      213: 4806847287216080614
+    second: Volcanic_Salt_Spring_7
+  - first:
+      213: -4841997871545243862
+    second: Volcanic_Salt_Spring_8
+  - first:
+      213: -259656327456821444
+    second: Volcanic_Salt_Spring_9
+  - first:
+      213: 242313064596879275
+    second: Volcanic_Salt_Spring_10
+  - first:
+      213: -8854291823500974083
+    second: Volcanic_Salt_Spring_11
+  - first:
+      213: 527735500371393644
+    second: Volcanic_Salt_Spring_12
+  - first:
+      213: -1513260789624499285
+    second: Volcanic_Salt_Spring_13
+  - first:
+      213: 1929481271411858
+    second: Volcanic_Salt_Spring_14
+  - first:
+      213: -3001296036049332619
+    second: Volcanic_Salt_Spring_15
+  - first:
+      213: -2997967272022469245
+    second: Volcanic_Salt_Spring_16
+  - first:
+      213: 7609420955506999894
+    second: Volcanic_Salt_Spring_17
+  - first:
+      213: 5383313041143113600
+    second: Volcanic_Salt_Spring_18
+  - first:
+      213: 8900329269991110236
+    second: Volcanic_Salt_Spring_19
+  - first:
+      213: 8273796378543711661
+    second: Volcanic_Salt_Spring_20
+  - first:
+      213: -2618698762338018642
+    second: Volcanic_Salt_Spring_21
+  - first:
+      213: 506225687318466321
+    second: Volcanic_Salt_Spring_22
+  - first:
+      213: -5150111350006793460
+    second: Volcanic_Salt_Spring_23
+  - first:
+      213: -3162911878439624745
+    second: Volcanic_Salt_Spring_24
+  - first:
+      213: -7330254390878784751
+    second: Volcanic_Salt_Spring_25
+  - first:
+      213: -5621995724577271972
+    second: Volcanic_Salt_Spring_26
+  - first:
+      213: -1574620303799588641
+    second: Volcanic_Salt_Spring_27
+  - first:
+      213: -3164289431153149253
+    second: Volcanic_Salt_Spring_28
+  - first:
+      213: -2118906119176789643
+    second: Volcanic_Salt_Spring_29
+  - first:
+      213: 7897470127904371780
+    second: Volcanic_Salt_Spring_30
+  - first:
+      213: 931768975763661134
+    second: Volcanic_Salt_Spring_31
+  - first:
+      213: 4601137424825537587
+    second: Volcanic_Salt_Spring_32
+  - first:
+      213: 6448542015882539820
+    second: Volcanic_Salt_Spring_33
+  - first:
+      213: -1886808043882178238
+    second: Volcanic_Salt_Spring_34
+  - first:
+      213: 3592212754173688829
+    second: Volcanic_Salt_Spring_35
+  - first:
+      213: -5135069525173623768
+    second: Volcanic_Salt_Spring_36
+  - first:
+      213: 4567036866051891609
+    second: Volcanic_Salt_Spring_37
+  - first:
+      213: 534781679747696909
+    second: Volcanic_Salt_Spring_38
+  - first:
+      213: -7960561058961610187
+    second: Volcanic_Salt_Spring_39
+  - first:
+      213: -757565356948783878
+    second: Volcanic_Salt_Spring_40
+  - first:
+      213: -6080895389206876604
+    second: Volcanic_Salt_Spring_41
+  - first:
+      213: -8921925611023370768
+    second: Volcanic_Salt_Spring_42
+  - first:
+      213: -8487197045696105169
+    second: Volcanic_Salt_Spring_43
+  - first:
+      213: 8787926692652071972
+    second: Volcanic_Salt_Spring_44
+  - first:
+      213: -7980343128942258971
+    second: Volcanic_Salt_Spring_45
+  - first:
+      213: 1053448642928273861
+    second: Volcanic_Salt_Spring_46
+  - first:
+      213: 3274985512540683760
+    second: Volcanic_Salt_Spring_47
+  - first:
+      213: 5823040265706578463
+    second: Volcanic_Salt_Spring_48
+  - first:
+      213: 418854511595769370
+    second: Volcanic_Salt_Spring_49
+  - first:
+      213: 8470519579131857230
+    second: Volcanic_Salt_Spring_50
+  - first:
+      213: 8071342917723281325
+    second: Volcanic_Salt_Spring_51
+  - first:
+      213: -3711958181871435425
+    second: Volcanic_Salt_Spring_52
+  - first:
+      213: 427702501732463307
+    second: Volcanic_Salt_Spring_53
+  - first:
+      213: -8167388819201435880
+    second: Volcanic_Salt_Spring_54
+  - first:
+      213: -6400847805686198446
+    second: Volcanic_Salt_Spring_55
+  - first:
+      213: 5725345447429355348
+    second: Volcanic_Salt_Spring_56
+  - first:
+      213: 5408534102303213063
+    second: Volcanic_Salt_Spring_57
+  - first:
+      213: 6638025211163829700
+    second: Volcanic_Salt_Spring_58
+  - first:
+      213: -1830815511515474081
+    second: Volcanic_Salt_Spring_59
+  - first:
+      213: -1593340632143155473
+    second: Volcanic_Salt_Spring_60
+  - first:
+      213: -4005148677055359075
+    second: Volcanic_Salt_Spring_61
+  - first:
+      213: 8253661681888994916
+    second: Volcanic_Salt_Spring_62
+  - first:
+      213: 5080744418028767571
+    second: Volcanic_Salt_Spring_63
+  - first:
+      213: 1904222082033623442
+    second: Volcanic_Salt_Spring_64
+  - first:
+      213: 336097270528859406
+    second: Volcanic_Salt_Spring_65
+  - first:
+      213: 8549902851810789731
+    second: Volcanic_Salt_Spring_66
+  - first:
+      213: -939552146265501380
+    second: Volcanic_Salt_Spring_67
+  - first:
+      213: 3275009835435959231
+    second: Volcanic_Salt_Spring_68
+  - first:
+      213: -2524275372540854680
+    second: Volcanic_Salt_Spring_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54d62fd457341a90800000000000000
+      internalID: -7344184254673791908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d9861aee41a9a0800000000000000
+      internalID: -6223606442741870029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db851f556edcf6f0800000000000000
+      internalID: -649399719279883311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3e5e9e20c0a700800000000000000
+      internalID: 549650460997205564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d6451379ea70bd0800000000000000
+      internalID: -2663968690175447676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc1e970cb9b46f0800000000000000
+      internalID: -699294066145112607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e045d61883bd9e90800000000000000
+      internalID: -7017255247293366043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68014d32a55b240800000000000000
+      internalID: 4806847287216080614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27295ff694cdccb0800000000000000
+      internalID: -4841997871545243862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe04622f3856cf0800000000000000
+      internalID: -259656327456821444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7bbbbc27edc5300800000000000000
+      internalID: 242313064596879275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72492af7c3f1580800000000000000
+      internalID: -8854291823500974083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cfffa34a4e25700800000000000000
+      internalID: 527735500371393644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba397e55451dffae0800000000000000
+      internalID: -1513260789624499285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29488cd5adad60000800000000000000
+      internalID: 1929481271411858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576dd7128214956d0800000000000000
+      internalID: -3001296036049332619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3859ad666a41566d0800000000000000
+      internalID: -2997967272022469245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6528867ea081a9960800000000000000
+      internalID: 7609420955506999894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087201c50be55ba40800000000000000
+      internalID: 5383313041143113600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56f4d9a052548b70800000000000000
+      internalID: 8900329269991110236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e20748fd62d270800000000000000
+      internalID: 8273796378543711661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5611a95388abd0800000000000000
+      internalID: -2618698762338018642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8bcc9499760700800000000000000
+      internalID: 506225687318466321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b332d73012788b0800000000000000
+      internalID: -5150111350006793460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1eb587641b14d0800000000000000
+      internalID: -3162911878439624745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133c660874b54a90800000000000000
+      internalID: -7330254390878784751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f8ec3dca8aaf1b0800000000000000
+      internalID: -5621995724577271972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd868e72d23d52ae0800000000000000
+      internalID: -1574620303799588641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf799078f2614d0800000000000000
+      internalID: -3164289431153149253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e01e6c122892e0800000000000000
+      internalID: -2118906119176789643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444bffd1d33799d60800000000000000
+      internalID: 7897470127904371780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416f1d52fe4eec00800000000000000
+      internalID: 931768975763661134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345b792c168adf30800000000000000
+      internalID: 4601137424825537587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c233cdf2cc2dd7950800000000000000
+      internalID: 6448542015882539820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2499d01b416b0d5e0800000000000000
+      internalID: -1886808043882178238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7622b77a1ad130800000000000000
+      internalID: 3592212754173688829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a71f39719cb8b0800000000000000
+      internalID: -5135069525173623768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e22d15df516f30800000000000000
+      internalID: 4567036866051891609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098fb5ba1deb6700800000000000000
+      internalID: 534781679747696909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a29cbc4e7668190800000000000000
+      internalID: -7960561058961610187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcfce452569c75f0800000000000000
+      internalID: -757565356948783878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e630a8cd15c9ba0800000000000000
+      internalID: -6080895389206876604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5fd7a5de3fe2480800000000000000
+      internalID: -8921925611023370768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25f988014b673a80800000000000000
+      internalID: -8487197045696105169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c33bb34ccf4f970800000000000000
+      internalID: 8787926692652071972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4daa5b430204190800000000000000
+      internalID: -7980343128942258971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c96bd695f99e9e00800000000000000
+      internalID: 1053448642928273861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb987d8f5137d20800000000000000
+      internalID: 3274985512540683760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ac3615489fc050800000000000000
+      internalID: 5823040265706578463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4c3885f110d500800000000000000
+      internalID: 418854511595769370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494521bda45d8570800000000000000
+      internalID: 8470519579131857230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7d24fae9b230070800000000000000
+      internalID: 8071342917723281325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c27c43b97c7cc0800000000000000
+      internalID: -3711958181871435425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23f45c8218fe500800000000000000
+      internalID: 427702501732463307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175001442b97ae80800000000000000
+      internalID: -8167388819201435880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f4cb875de9b27a0800000000000000
+      internalID: -6400847805686198446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573d6aa953847f40800000000000000
+      internalID: 5725345447429355348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7068e534c19fe0b40800000000000000
+      internalID: 5408534102303213063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e18182c00f1c50800000000000000
+      internalID: 6638025211163829700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 10
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5758da0ef2a796e0800000000000000
+      internalID: -1830815511515474081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee29ee032153e9e0800000000000000
+      internalID: -1593340632143155473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d975d779f7ada68c0800000000000000
+      internalID: -4005148677055359075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4662f35e195ea8270800000000000000
+      internalID: 8253661681888994916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594727112e628640800000000000000
+      internalID: 5080744418028767571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291a11505e72d6a10800000000000000
+      internalID: 1904222082033623442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_65
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd9d3dfae0aa400800000000000000
+      internalID: 336097270528859406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369084a285b57a670800000000000000
+      internalID: 8549902851810789731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3193e90d4a06f2f0800000000000000
+      internalID: -939552146265501380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb32215f71c237d20800000000000000
+      internalID: 3275009835435959231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcanic_Salt_Spring_69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e7f604ce8f7fcd0800000000000000
+      internalID: -2524275372540854680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
